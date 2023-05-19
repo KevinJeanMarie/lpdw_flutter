@@ -88,6 +88,7 @@ enum ProductNutriscore {
   D("d"),
   E("e");
 
+
   final String letter;
 
   const ProductNutriscore(this.letter);
